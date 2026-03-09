@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>LESSON 4</title></head>
+<body style="background-image:url(BG10.jpg);background-repeat:no-repeat;background-size:100% 100%">
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066"><b>Browser Output and Reflection on Lesson 4</b></p>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Reflection: In this lesson, I learned that CSS rules are made up of selectors and declarations, which define how HTML elements should appear on a webpage. I understood how classes allow us to apply specific styles to multiple elements and make web design more organized and flexible. I also learned about element + class selectors, which give more control by styling only a specific type of element with a certain class. This lesson taught me that grouping selectors can make coding faster and cleaner since you can style many elements with fewer lines. Overall, I realized that understanding CSS rules and classes is important in creating consistent, efficient, and professional-looking web designs.</b></p>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Here is an example of a browser using class. <br><br><br>
+
+<img src="CLASS1.png" alt="a photo of the codes for the browser using class" width="600" height="500">
+
+<img src="CLASS.png" alt="a photo of the output for the browser using class" width="600" height="500"> <br><br> </p>
+
+<a href="TLE.html" target="_self" style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:600px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066;margin-left:600px;"> < back to TLE-ICT home page</a></b>
+</body>
+</html>

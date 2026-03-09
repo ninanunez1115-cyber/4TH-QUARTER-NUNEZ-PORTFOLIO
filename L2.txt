@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head><title>LESSON 2</title></head>
+<body style="background-image:url(BG10.jpg);background-repeat:no-repeat;background-size:100% 100%">
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066"><b>Browser Output and Reflection on Lesson 2</b></p>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Reflection:In this lesson, I learned that CSS is used to design and control the appearance of web pages through style sheets. I discovered that there are three types of CSS: inline, embedded (internal), and external, each with its own purpose in applying styles. I also understood how CSS uses selectors, properties, and values to change how HTML elements look on a webpage. The lesson taught me how to properly link a CSS file to an HTML document and how to use comments to make codes more organized and easier to understand. Overall, this lesson helped me appreciate how CSS makes websites more attractive, consistent, and easier to maintain.</b></p>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Here are some examples of each style sheet. These are from my hands on number 1!<br><br>
+
+Inline style sheets:<br>
+<img src="INLINE1.png" alt="a photo of the codes for inline style sheets" width="600" height="500">
+
+<img src="INLINE.png" alt="a photo of the output for inline style sheets" width="600" height="500">
+<br>
+<br>
+Embedded style sheets:<br>
+<img src="EMBEDDED1.png" alt="a photo of the codes for embedded style sheets" width="600" height="500">
+
+<img src="EMBEDDED.png" alt="a photo of the output for embedded style sheets" width="600" height="500">
+<br>
+<br>
+External style sheets:<br>
+<img src="EXTERNAL1.png" alt="a photo of the codes for external style sheets" width="600" height="500">
+
+<img src="EXTERNAL2.png" alt="a photo of the codes for the css file" width="600" height="500">
+
+<img src="EXTERNAL.png" alt="a photo of output for external style sheets" width="600" height="500">
+
+
+</p>
+
+
+<a href="TLE.html" target="_self" style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:600px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066;margin-left:600px;"> < back to TLE-ICT home page</a></b>
+</body>
+</html>

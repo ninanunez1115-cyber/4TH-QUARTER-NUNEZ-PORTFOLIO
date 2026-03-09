@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head><title>LESSON 5</title></head>
+<body style="background-image:url(BG10.jpg);background-repeat:no-repeat;background-size:100% 100%">
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066"><b>Browser Output and Reflection on Lesson 5</b></p>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Reflection: In this lesson, I learned that CSS selectors are used to target specific HTML elements to apply styles. There are different types of selectors, such as class, element, ID, universal, group, and attribute selectors, each with its own purpose. I discovered that class selectors are used for multiple elements, while ID selectors are meant for one unique element on a page. I also learned that using the correct selector helps make CSS code more organized and efficient. Overall, this lesson taught me how to control the design of web pages more precisely by choosing the right type of selector for each situation.</b></p>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Here are some examples using different css selectors!<br><br>
+
+Element Selector:<br>
+<img src="EXTERNAL1.png" alt="a photo of the codes using element selector" width="600" height="500">
+
+<img src="EXTERNAL2.png" alt="a photo of the codes for the css file" width="600" height="500">
+
+
+<img src="EXTERNAL.png" alt="a photo of output using element selector" width="600" height="500">
+
+<br>
+<br>
+
+ID selector:<br>
+<img src="ID1.png" alt="a photo of the codes using ID selector" width="600" height="500">
+
+<img src="ID.png" alt="a photo of output using ID selector" width="600" height="500">
+<br>
+<br>
+Universal selector:<br>
+<img src="UNIVERSAL1.png" alt="a photo of the codes using universal selector" width="600" height="500">
+
+<img src="UNIVERSAL.png" alt="a photo of the output using universal selector" width="600" height="500">
+<br>
+<br>
+Group selector:<br>
+<img src="GROUP1.png" alt="a photo of the codes using group selector" width="600" height="500">
+
+<img src="GROUP.png" alt="a photo of the output using group selector" width="600" height="500">
+<br>
+<br>
+Attribute selector:<br>
+<img src="ATTRIBUTE1.png" alt="a photo of the codes using attribute selector" width="600" height="500">
+
+<img src="ATTRIBUTE.png" alt="a photo of the output using attribute selector" width="600" height="500">
+</p>
+
+
+<a href="TLE.html" target="_self" style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:600px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066;margin-left:600px;"> < back to TLE-ICT home page</a></b>
+</body>
+</html>

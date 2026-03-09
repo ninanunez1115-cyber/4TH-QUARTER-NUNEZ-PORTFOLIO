@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head><title>LESSON 3</title></head>
+<body style="background-image:url(BG10.jpg);background-repeat:no-repeat;background-size:100% 100%">
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066"><b>Browser Output and Reflection on Lesson 3</b></p></body>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Reflection: In this lesson, I learned about the different ways to apply CSS: inline, internal (embedded), and external. I understood that external style sheets are the most efficient since one file can control the design of multiple web pages. I also learned about block-level and inline elements, and how the display property changes how elements appear on a webpage. The lesson taught me the purpose of the div and span tags, which help organize and format sections of a webpage using CSS. Overall, this lesson helped me see how proper use of CSS and structure makes a webpage more organized, readable, and visually appealing.</b></p>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Here are some examples using block and inline level elements, as well as the div and span tags!<br><br><br>
+
+Here is a browser using the block level element and the div tag:<br>
+
+<img src="BLOCK1.png" alt="a photo of the codes for block level element and div tag" width="600" height="500">
+
+<img src="BLOCK.png" alt="a photo of the output using block level element and div tag" width="600" height="500"> <br><br>
+
+Here is a browser using the inline level element and the span tag:<br>
+<img src="LEVEL1.png" alt="a photo of the codes for inline level element and span tag" width="600" height="500">
+
+<img src="LEVEL.png" alt="a photo of the output using inline level element and span tag" width="600" height="500">
+
+</p>
+
+
+<a href="TLE.html" target="_self" style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:600px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066;margin-left:600px;"> < back to TLE-ICT home page</a></b>
+</html>

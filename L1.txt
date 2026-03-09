@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><title>LESSON 1</title></head>
+<body style="background-image:url(BG10.jpg);background-repeat:no-repeat;background-size:100% 100%">
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066"><b>Browser Output and Reflection on Lesson 1</b></p>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Reflection: In this lesson, I learned that CSS stands for Cascading Style Sheets and is used to design and style web pages. It helps separate a website’s content from its presentation, making pages easier to maintain and more attractive. CSS can control the layout, color, and design of multiple web pages at once, saving time and keeping everything consistent. I also learned about the three layers of a webpage: the content layer (HTML), the presentation layer (CSS), and the behavior layer (JavaScript). Overall, CSS is important because it improves website appearance, efficiency, and user experience.</b></p> <br><br>
+
+<p style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:1000px;margin-left:275px;text-align:center;font-size:20px;padding:10px;border:5px solid #660066"><b>Here are some photos about using css.</b><br><br>
+
+<img src="B1.png" alt="a photo from Q2 L1." width="500" height="400">
+<img src="B1.2.png" alt="a photo from Q2 L1." width="500" height="400">
+
+
+<br><br><br>
+
+</p>
+
+<a href="TLE.html" target="_self" style="color:#660066;background-color:#ffb3ff;font-family:Courier New;width:600px;text-align:center;font-size:25px;padding:10px;border:5px solid #660066;margin-left:575px;"> < back to TLE-ICT home page</a></b>
+
+</body>
+</html>
