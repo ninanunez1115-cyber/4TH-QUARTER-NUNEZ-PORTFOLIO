@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head><title>AP MONTH</title></head>
+<body style="background-image:url(BG9.jpg);background-repeat:no-repeat;background-size:100% 100%;">
+
+<p style="color:#993300;background-color:#ffcc66;font-family:Courier New;width:600px;margin-left:475px;text-align:center;font-size:25px;padding:10px;border:5px solid #993300"> <b>Reflection on AP Month!</b> </p>
+
+<p style="color:#993300;background-color:#ffe6b3;font-family:Courier New;width:1200px;margin-left:135px;text-align:center;font-size:25px;padding:10px;border:5px solid #993300">
+<br><br>
+<b>What is the most important thing I learned from the event?</b>
+<br><br>
+
+<b>
+During Araling Panlipunan Month, I learned how important it is to understand our culture, history, and the issues that affect our country. Learning about the 2017 Philippine National Demographic Survey helped me see how numbers and data show the real situations of Filipino families. It made me realize that studying AP is not just about memorizing lessons but about understanding real people and their lives.</b>
+
+<br><br><br><br>
+
+<b>How can I apply what I learned in real-life situations?</b>
+
+<br><br>
+
+<b>I can apply what I learned by being more aware of the problems and strengths of our country. I can use facts and data to understand national issues better and make informed opinions. I can also be more respectful of different cultures and continue learning about our history and society.</b>
+
+<br><br><br><br>
+
+<b>Did I actively participate in the event? How?</b>
+
+<br><br>
+
+<b>Yes, I actively participated in AP Month. I participated in the editorial cartoon making, which helped me express ideas about society through art. I also learned about the Philippine National Demographic Survey of 2017 while preparing for the quiz bee. Wearing traditional clothes from different countries was another part I enjoyed because it made me appreciate different cultures.</b>
+
+<br><br><br><br>
+
+<b>If I were to teach this topic or subject to a classmate, how would I explain it?</b>
+
+<br><br>
+
+<b>If I were to teach this to a classmate, I would explain that AP Month helps us understand our country and the world better. It teaches us how history, geography, and culture shape the way people live and think.</b>
+
+<br><br><br><br>
+
+<b>Why is it important to have events like this?</b>
+
+<br><br>
+
+<b>Events like AP Month are important because they help students become more aware of society and culture. They make learning more fun and meaningful while reminding us to be proud of our identity as Filipinos. These activities also teach us to respect other cultures and understand the importance of unity in diversity.</b>
+
+<br><br>
+
+<img src="AP1.jpg" alt="an example of an editorial cartoon" width="500" height="400"> 
+<img src="AP2.jpg" alt="an example of Papua New Guinea's national costume" width="400" height="500">
+
+<br><br>
+
+a video of my batchmate giving a speech during the MANA MO seminar: 
+
+<video width="400" height="700" controls>
+  <source src="SPEECH.mp4" type="video/mp4">
+</video>
+
+<br><br>
+
+<a href="TLE.html" target="_self" style="color:#993300;background-color:#ffcc66;font-family:Courier New;width:600px;text-align:center;font-size:25px;padding:10px;border:5px solid #993300"> < back to TLE-ICT home page</a></b>
+
+
+</body>
+</html>

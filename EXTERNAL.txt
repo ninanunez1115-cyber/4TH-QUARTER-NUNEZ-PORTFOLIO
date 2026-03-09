@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><title>Nunez_External</title>
+<link rel="stylesheet" href="HOI_external.css" type="text/css">
+</head>
+<body>
+<h1>Busy Street</h1>
+<p>Luke saw an old woman waiting at the pavement. She couldn't cross the busy street alone. 
+Luke helped the old woman cross the street safely. The woman thanked Luke for his good deed. </p>
+</body>
+</html>

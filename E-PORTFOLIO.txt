@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head><title>HOME PAGE</title><head>
+
+<body style="background-image:url(BG1.jpg);background-repeat:no-repeat;background-size:100% 150%;">
+
+<br>
+<br>
+
+<p style="text-align:center;color:#3d2e29;font-family:Perpetua;background-color:#dfceba;font-size:40px;border:10px solid #836a5e;width:1000px;height:565px;margin-left:230px;border-radius:25px;">
+<br>
+<b>Hello And Welcome to my E-Portfolio!<br>
+Made by: Nina Arabela D. Nuñez<br>
+9-Fairness</b>
+<br>
+<br>
+
+<b><a href="MPS.html" target="_self" style="color:#6b6b6b;background-color:#ffffff;font-family:Perpetua;font-size:30px;border:5px solid #836a5e;border-radius:10px;">My Personal Space</a></b>  
+<b><a href="TLE.html" target="_self" style="color:#6b6b6b;background-color:#ffffff;font-family:Perpetua;font-size:30px;border:5px solid #836a5e;border-radius:10px;margin-left:60px;margin-right:60px;">TLE-ICT content</a></b> 
+<b><a href="AP.html" target="_self" style="color:#6b6b6b;background-color:#ffffff;font-family:Perpetua;font-size:30px;border:5px solid #836a5e;border-radius:10px;">AP content</a>
+<img src="CAT.jpg" alt="Picture of cats" width="1000" height="295"></b> 
+</p>
+
+</body>
+</html>

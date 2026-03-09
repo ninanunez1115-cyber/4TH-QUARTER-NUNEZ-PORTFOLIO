@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head><title>SCIENCE MONTH</title></head>
+<body style="background-image:url(BG7.jpg);background-repeat:no-repeat;background-size:100% 100%;">
+
+<p style="color:#394d00;background-color:#e6ff99;font-family:Courier New;width:600px;margin-left:475px;text-align:center;font-size:25px;padding:10px;border:5px solid #394d00"> <b>Reflection on Science Month!</b> </p>
+
+<p style="color:#394d00;background-color:#e6ff99;font-family:Courier New;width:1200px;margin-left:135px;text-align:center;font-size:25px;padding:10px;border:5px solid #394d00">
+<br><br>
+<b>What is the most important thing I learned from the event?</b>
+<br><br>
+
+<b>
+During Science Month, I learned that science is not just about experiments but also about helping people live healthier lives. Through activities like poster making, the WINS corner, and daily handwashing and toothbrushing, I realized how important hygiene and cleanliness are for our health. The WINS corner taught me that simple habits like washing hands and brushing teeth regularly can prevent sickness and keep our school environment safe.</b>
+
+<br><br><br><br>
+
+<b>How can I apply what I learned in real-life situations?</b>
+
+<br><br>
+
+<b>I can apply what I learned by keeping good hygiene habits every day. I will continue to wash my hands properly, brush my teeth after meals, and keep my surroundings clean. I can also remind my classmates and family to do the same so that we can all stay healthy together.</b>
+
+<br><br><br><br>
+
+<b>Did I actively participate in the event? How?</b>
+
+<br><br>
+
+<b>Yes, I actively participated in the Science Month activities. I joined the poster making activity, helped decorate our WINS corner, and took part in the daily handwashing and toothbrushing routines. These activities helped me become more responsible for my own health.</b>
+
+<br><br><br><br>
+
+<b>If I were to teach this topic or subject to a classmate, how would I explain it?</b>
+
+<br><br>
+
+<b>I would explain that Science Month teaches us to apply what we learn in science to real life. It shows us that science helps us take care of our bodies and environment through proper hygiene and cleanliness.</b>
+
+<br><br><br><br>
+
+<b>Why is it important to have events like this?</b>
+
+<br><br>
+
+<b>Events like Science Month are important because they help students understand that science is part of everyday life. They also remind us to take care of ourselves, our community, and the environment through simple scientific practices.</b>
+
+<br><br>
+
+<img src="SCIENCE1.jpg" alt="a picture of the science teachers" width="500" height="400"> 
+<img src="SCIENCE2.jpg" alt="a photo of the science club officers" width="500" height="400">
+
+<br><br>
+
+a video of the WINS corner:(credits to Jayzel Macawilli for the video) <br><br>
+
+<video width="700" height="500" controls>
+  <source src="WINS.mp4" type="video/mp4">
+</video>
+
+<br><br>
+
+<a href="TLE.html" target="_self" style="color:#394d00;background-color:#99cc00;font-family:Courier New;width:600px;text-align:center;font-size:25px;padding:10px;border:5px solid #394d00"> < back to TLE-ICT home page</a></b>
+
+
+</body>
+
+</html>
