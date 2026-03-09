@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head><title>INLINE</title>
+<style type="text/css">
+p{display:inline}
+</style>
+</head>
+
+<body style="color:#8400b0;text-align:center;">
+
+<h1>This is a browser using the inline level element and span tags.</h1>
+
+<p>Paragraph 1</p>
+<p>Paragraph 2</p>
+<p><span style="color:#ff7b00;">Paragraph 3</span></p>
+<p>Paragraph 4</p>
+<p>Paragraph 5</p>
+<p>Paragraph 6</p>
+
+</body>
+</html>

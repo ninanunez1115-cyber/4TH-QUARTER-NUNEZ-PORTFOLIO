@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head> <title>ID selector</title>
+<style type="text/css">
+#greeting {color:blue;font-size:20px;font-weight:bold;font-family:Courier;}
+</style>
+</head>
+<body>
+
+<h1>ID selector</h1>
+<p>Paragraph 1</p>
+<p id="greeting">Paragraph 2</p>
+<p>Paragraph 3</p>
+
+</body>
+</html>
