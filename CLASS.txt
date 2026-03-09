@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><title>CLASS</title>
+<style type="text/css">
+.pink{color:#b03361;font-size:20px:font-family:Courier;}
+.orange{color:#ff6200;font-size:20px:font-family:Courier;}
+.blue{color:#001aff;font-size:20px:font-family:Courier;}
+</style>
+</head>
+
+<body style="color:#8400b0;text-align:center;">
+
+<h1>This is a browser using class.</h1>
+
+<p class="pink">Paragraph 1</p>
+<p class="orange">Paragraph 2</p>
+<p class="blue">Paragraph 3</p>
+<p class="orange">Paragraph 4</p>
+<p class="pink">Paragraph 5</p>
+<p class="blue">Paragraph 6</p>
+
+</body>
+</html>
