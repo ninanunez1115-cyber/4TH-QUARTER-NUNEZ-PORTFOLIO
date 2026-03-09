@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><title>UNIVERSAL SELECTOR</title>
+<style type="text/css">
+*{font-family:Courier;color:#4000ff;}
+</style>
+</head>
+<body>
+
+<h1>This uses the universal selector.</h1>
+<p>Paragraph 1</p>
+<p>Paragraph 2</p>
+<p>Paragraph 3</p>
+
+</body>
+</html>
