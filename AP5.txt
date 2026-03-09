@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head><title>AP</title></head>
+<body style="background-image:url(AP-BG5.jpg);background-repeat:no-repeat;background-size:100% 120%">
+<h1 style="text-align:center;font-family:Courier;color:#660112;background-color:#b39a76;border:5px solid #660112">Lesson 5 - Iba't-ibang Estraktura ng Pamilihan</h1><br>
+
+<dl style="color:#660112;background-color:#e6c697;font-family:Courier New;width:1000px;margin-left:260px;text-align:center;font-size:20px;padding:10px;border:5px solid #660112">
+<dt><b>Iba’t Ibang Estruktura ng Pamilihan (Market Structures)</b></dt>
+<dd>Ang estruktura ng pamilihan ay tumutukoy sa uri o kalagayan ng kompetisyon sa pagitan ng mga negosyante o prodyuser sa pagbebenta ng produkto o serbisyo. Ipinapakita nito kung gaano karami ang nagtitinda, gaano kalaya ang pagpasok sa negosyo, at kung paano nabubuo ang presyo sa merkado.</dd>
+</dl>
+
+<img src="STRUCTURE1.jpg" alt="a photo showing a marketplace" width="500" height="400" style="border:5px solid #660112;margin-left:520px;"><br>
+
+<dl style="color:#660112;background-color:#e6c697;font-family:Courier New;width:1000px;margin-left:260px;text-align:left;font-size:20px;padding:10px;border:5px solid #660112">
+<dt><b>Ganap na Kompetisyon (Perfect Competition)</b></dt>
+<dd>- Uri ng pamilihan kung saan maraming nagtitinda at mamimili ng magkakatulad na produkto.</dd>
+<dd>- Walang sinuman ang may kontrol sa presyo (price taker).</dd>
+<dd>- Madaling pumasok at lumabas sa negosyo.</dd>
+<dd>- Pare-pareho ang kalidad ng produkto.</dd>
+<dd>- Halimbawa: Pamilihan ng palay, gulay, at prutas sa palengke.</dd>
+</dl>
+
+<img src="STRUCTURE2.jpg" alt="a photo showing a chart of ganap and di-ganap na kompetisyon" width="500" height="400" style="border:5px solid #660112;margin-left:520px;"><br>
+
+
+<dl style="color:#660112;background-color:#e6c697;font-family:Courier New;width:1000px;margin-left:260px;text-align:left;font-size:20px;padding:10px;border:5px solid #660112">
+<dt><b>Di-Ganap na Kompetisyon (Imperfect Competition)</b></dt>
+<dd>- Ang di-ganap na kompetisyon ay uri ng pamilihan kung saan hindi ganap ang pagiging patas ng kumpetisyon sa pagitan ng mga nagtitinda o prodyuser. Ibig sabihin, may kontrol sa presyo, kalidad, o dami ng produkto ang ilang kompanya o negosyante. Hindi pare-pareho ang produkto, at madalas ay may mga hadlang sa pagpasok ng bagong kalahok sa merkado.</dd>
+<br>
+<dt><b>1. Monopolyo (Monopoly)</b></dt>
+<dd>- Uri ng pamilihan kung saan iisa lamang ang prodyuser o nagtitinda ng isang produkto o serbisyo.</dd>
+<dd>- May ganap na kontrol sa presyo (price maker).</dd>
+<dd>- Walang malapit na kapalit ang produkto.</dd>
+<dd>- Mahirap pumasok ang bagong negosyante sa merkado.</dd>
+<dd>- Halimbawa: Meralco (kuryente), Maynilad (tubig).</dd>
+<br>
+<dt><b>2. Monopolistikong Kompetisyon (Monopolistic Competition)</b></dt>
+<dd>- Pamilihan kung saan maraming nagtitinda ng magkakahawig ngunit hindi pareho na produkto.</dd>
+<dd>- May bahagyang kontrol sa presyo.</dd>
+<dd>- Madaling pumasok at lumabas sa pamilihan.</dd>
+<dd>- May product differentiation (pagkakaiba ng tatak, kalidad, o disenyo).</dd>
+<dd>- Halimbawa: Mga tindahan ng damit, fast food chains (Jollibee, McDonald’s).</dd>
+<br>
+<dt><b>3. Oligopolyo (Oligopoly)</b></dt>
+<dd>- Uri ng pamilihan na binubuo lamang ng iilang malalaking kompanya na may kontrol sa presyo at dami ng produkto.</dd>
+<dd>- May limitadong bilang ng nagtitinda.</dd>
+<dd>- Ang presyo ay madalas na nakabatay sa kilos ng ibang kompanya.</dd>
+<dd>- May malaking puhunan na kailangan upang makapasok sa merkado.</dd>
+<dd>- Halimbawa: Mga kumpanya ng gasolina (Shell, Petron, Caltex), industriya ng telecommunication (Globe, Smart).</dd>
+<br>
+<dt><b>4. Monopsonyo (Monopsony)</b></dt>
+<dd>- Uri ng pamilihan kung saan iisa lamang ang mamimili ngunit maraming nagbebenta.</dd>
+<dd>- Ang mamimili ang may kontrol sa presyo.</dd>
+<dd>- Karaniwang makikita sa pamilihan ng paggawa o labor market..</dd>
+<dd>- Halimbawa: Isang malaking kumpanya na tanging bumibili ng serbisyo ng manggagawa sa isang lugar.</dd>
+</dl>
+<br><br>
+
+
+<a href="AP.html" target="_self" style="color:#660112;background-color:#b39a76;font-family:Courier New;width:600px;text-align:center;font-size:25px;padding:10px;border:5px solid #660112;margin-left:550px;"><b> < back to the AP home page </b></a>
+
+</body>
+</html>
